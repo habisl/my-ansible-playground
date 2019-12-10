@@ -11,3 +11,6 @@ Examples of useful ansible code
 * Disallow root SSH access
 * Disallow SSH password authentication
 * Disallow SSH GSS API authentication
+
+# Useful Articles
+https://medium.com/@abhijeet.kamble619/10-things-you-should-start-using-in-your-ansible-playbook-808daff76b65
