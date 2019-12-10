@@ -18,5 +18,5 @@ https://medium.com/@abhijeet.kamble619/10-things-you-should-start-using-in-your-
 Ansible Create EC2 instance Example: 
 https://www.middlewareinventory.com/blog/ansible-create-ec2-instance-example/?fbclid=IwAR3WIENAltoAR1pA9YdK7XtK_F4zUqYkqoBhqvaA06V-HfZM2Rhr12RLC08
 
-How to Create Ansible Plays and Playbooks
+How to Create Ansible Plays and Playbooks: 
 https://www.tecmint.com/create-ansible-plays-and-playbooks/?fbclid=IwAR1bLNzS4AkggGXDs7BKU_bcyWpkHeXTrYxkB59BFeO-Xcxt3q0eRxP6f1E
