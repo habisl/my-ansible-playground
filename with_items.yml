@@ -1,0 +1,23 @@
+# Installing packages individually ( Slower Process )
+- name: Installing Git
+  apt:
+    name: git
+    update_cache: yes
+- name: Installing nginx
+  apt:
+    name: nginx
+    update_cache: yes
+- name: Installing memcached
+  apt:
+    name: memcached
+    update_cache: yes
+    
+ # Installing Packages with one Task ( Faster Process )
+- name: Installing Packages
+  apt:
+    name: "{{ item }}"
+    update_cache: yes
+  with_items:
+    - git
+    - nginx
+    - memcached
